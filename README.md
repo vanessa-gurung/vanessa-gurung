@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vanessa-gurung
+- 👀 I’m interested in web accessibility and creative coding
+- 🌱 I’m currently learning Redux
+- 📫 How to reach me vanessagur@gmail.com
