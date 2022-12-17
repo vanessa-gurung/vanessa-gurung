@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vanessa
 - 👀 I’m interested in web accessibility and creative coding
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Canvas
 - 📫 How to reach me vanessagur@gmail.com
